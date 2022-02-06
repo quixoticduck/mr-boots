@@ -1,0 +1,3 @@
+scrPlayerMove();
+scrDepthAndLighting();
+scrGettingLost();

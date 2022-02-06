@@ -1,0 +1,2 @@
+scrDepthAndLighting();
+
