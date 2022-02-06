@@ -6,7 +6,7 @@ if(instance_exists(objPlayer))
 {
 	var _x = clamp(objPlayer.x-view_width/2,0,room_width-view_width);
 	var _y = clamp(objPlayer.y-view_height/2-300,0,room_height-view_height);
-	
+
 	var _cur_x = camera_get_view_x(view);
 	var _cur_y = camera_get_view_y(view);
 	

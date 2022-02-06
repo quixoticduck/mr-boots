@@ -1,6 +1,11 @@
 /// @description change thoughts to be when you're still for a while
 
 
+if (showMuteButton = true)
+{
+	instance_create_layer(x, y, "Instances", objMuteButton);
+}
+
 //follow view
 x = objPlayer.x; y = objPlayer.y;
 

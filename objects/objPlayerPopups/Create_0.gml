@@ -9,3 +9,5 @@ global.still = -300;
 thoughtBubbleContents = 0;
 thoughtBubbleMessage = sprThoughtSpacebarSm;
 depth = -10000;
+
+showMuteButton = true;
